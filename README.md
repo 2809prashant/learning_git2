@@ -1,0 +1,2 @@
+# Jurnry started
+start learning
